@@ -1,0 +1,21 @@
+datos_criaturas = [
+    {"name": "Ceto", "derrotado_por": None}, {"name": "Tifón", "derrotado_por": "Zeus"},
+    {"name": "Equidna", "derrotado_por": "Argos Panoptes"}, {"name": "Dino", "derrotado_por": None},
+    {"name": "Pefredo", "derrotado_por": None}, {"name": "Enio", "derrotado_por": None},
+    {"name": "Escila", "derrotado_por": None}, {"name": "Caribdis", "derrotado_por": None},
+    {"name": "Euríale", "derrotado_por": None}, {"name": "Esteno", "derrotado_por": None},
+    {"name": "Medusa", "derrotado_por": "Perseo"}, {"name": "Ladón", "derrotado_por": "Heracles"},
+    {"name": "Águila del Cáucaso", "derrotado_por": None}, {"name": "Quimera", "derrotado_por": "Belerofonte"},
+    {"name": "Hidra de Lerna", "derrotado_por": "Heracles"}, {"name": "León de Nemea", "derrotado_por": "Heracles"},
+    {"name": "Esfinge", "derrotado_por": "Edipo"}, {"name": "Dragón de la Cólquida", "derrotado_por": None},
+    {"name": "Cerbero", "derrotado_por": None}, {"name": "Cerda de Cromión", "derrotado_por": "Teseo"},
+    {"name": "Ortro", "derrotado_por": "Heracles"}, {"name": "Toro de Creta", "derrotado_por": "Teseo"},
+    {"name": "Jabalí de Calidón", "derrotado_por": "Atalanta"}, {"name": "Carcinos", "derrotado_por": None},
+    {"name": "Gerión", "derrotado_por": "Heracles"}, {"name": "Cloto", "derrotado_por": None},
+    {"name": "Láquesis", "derrotado_por": None}, {"name": "Átropos", "derrotado_por": None},
+    {"name": "Minotauro de Creta", "derrotado_por": "Teseo"}, {"name": "Harpías", "derrotado_por": None},
+    {"name": "Argos Panoptes", "derrotado_por": "Hermes"}, {"name": "Aves del Estínfalo", "derrotado_por": None},
+    {"name": "Talos", "derrotado_por": "Medea"}, {"name": "Sirenas", "derrotado_por": None},
+    {"name": "Pitón", "derrotado_por": "Apolo"}, {"name": "Cierva de Cerinea", "derrotado_por": None},
+    {"name": "Basilisco", "derrotado_por": None}, {"name": "Jabalí de Erimanto", "derrotado_por": None}
+]
